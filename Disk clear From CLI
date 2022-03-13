@@ -1,0 +1,19 @@
+i) diskpart
+
+ii) list disk
+
+iii) select disk 1 (select your disk, you might have 1,2,3 etc.)
+
+iv) list disk
+
+v) clean
+
+vi) create partition primary
+
+vii) select partition 1
+
+viii) format fs=ntfs quick
+
+ix)   active
+
+x)    assign letter=t
