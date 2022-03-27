@@ -1,2 +1,9 @@
-hello there iam newly learning git plz support me in my journery
-new record 
+How to use the linux subsystem in windows10
+you need two step to do this 
+  1) goto search Type : Turn Window Features open it and <check on windows linux subsystem >
+  2)goto microsoft store search : Ubuntu and install 
+  after that has been installed it will ask for reboot 
+  then you are good to go 
+  
+  
+                      
